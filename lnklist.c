@@ -62,6 +62,7 @@ insert(30);
 insert(40);
 insert(50);
 printList();
+printf("\n");   
 reverse(&head);
 printList();
 
